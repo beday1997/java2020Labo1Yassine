@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment="definition workspace">
+    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment="exo livre chap2/4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionStage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GestionStage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/Convert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/Parite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,82 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager" selected="Application.Tva">
+    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4.Convert" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deux" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap2.Deux" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4.ErrConvert" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExoRefait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap2.ExoRefait" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap5.Tva" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tva" />
+        <item itemvalue="Application.Convert" />
+        <item itemvalue="Application.ErrConvert" />
+        <item itemvalue="Application.Deux" />
+        <item itemvalue="Application.ExoRefait" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604488807997</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exo livre chap2/4">
+      <created>1604505399035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604505399035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="definition workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="definition workspace" />
+    <MESSAGE value="exo livre chap2/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo livre chap2/4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="243" y="0" key="#Project_Structure" timestamp="1604496708209">
@@ -95,18 +181,51 @@
     </state>
     <state x="243" y="0" key="#Project_Structure/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604496708209" />
     <state x="243" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604489072149" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604505165761">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604570796347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604505165761" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604570796347" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604590011581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604590011581" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604590011581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604590011581" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604590011581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604590011581" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604590011581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604590011581" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604588037908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604588037908" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604588037908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604588037908" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604588037908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604588037908" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604588037908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604588037908" />
     <state x="243" y="0" key="SettingsEditor" timestamp="1604505062933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604505062933" />
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604489067977" />
-    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604488821791">
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604505449004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604505449004" />
     <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604488821791" />
     <state x="547" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604488750025">
       <screen x="0" y="0" width="1536" height="824" />
