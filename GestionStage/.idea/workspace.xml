@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment="chap 3 -5">
+    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +55,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.IEEE">
+  <component name="RunManager" selected="Application.Switch2">
     <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap4.Convert" />
       <module name="GestionStage" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deux" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2.Deux" />
-      <module name="GestionStage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Switch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap5.Switch2" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap5.Tva" />
       <module name="GestionStage" />
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch2" />
         <item itemvalue="Application.IEEE" />
         <item itemvalue="Application.Tva" />
         <item itemvalue="Application.Convert" />
         <item itemvalue="Application.ErrConvert" />
-        <item itemvalue="Application.Deux" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604592317872</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1604660840396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604660840397</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +194,8 @@
     <MESSAGE value="definition workspace" />
     <MESSAGE value="exo livre chap2/4" />
     <MESSAGE value="chap 3 -5" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap 3 -5" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="243" y="0" key="#Project_Structure" timestamp="1604496708209">
@@ -234,10 +244,10 @@
     </state>
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604505062933" />
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604489067977" />
-    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604592329448">
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604660851057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604592329448" />
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660851057" />
     <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604488821791" />
     <state x="547" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604488750025">
       <screen x="0" y="0" width="1536" height="824" />
