@@ -5,7 +5,8 @@ public class ErrorAffecEl {
         byte b=10 ;
         int n = 10000 ;
         b+=n ; // pas compris ça demander
-        System.out.println ("b = " + b); ;
+        b= (byte) (b+n);
+        System.out.println ("b = " + b);
     }
 }
 

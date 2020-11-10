@@ -1,7 +1,7 @@
 package chap4;
 
 public class ErrConvert { //Perte de precision passage int à float vu que l'encodage en nbre de bit est différent
-    public static void main (String args[]) {
+    public static void main (String ... args ) {
         int n ;
         float x ;
 

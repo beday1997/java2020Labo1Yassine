@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment=".">
+    <list default="true" id="f5fd14bb-971e-46e2-85b7-db65c3f7a960" name="Default Changelist" comment="fin chap4 chap5 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/srcExoLivreJava/chap4/ErrorAffecEl.java" afterDir="false" />
@@ -55,26 +55,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Switch2">
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap4.Convert" />
+  <component name="RunManager" selected="Application.Exemple">
+    <configuration name="Exemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.Exemple" />
       <module name="GestionStage" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ErrConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap4.ErrConvert" />
-      <module name="GestionStage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap4.*" />
+          <option name="PATTERN" value="chap6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.Test2" />
+      <module name="GestionStage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap5.Tva" />
       <module name="GestionStage" />
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemple" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Switch2" />
         <item itemvalue="Application.IEEE" />
         <item itemvalue="Application.Tva" />
-        <item itemvalue="Application.Convert" />
-        <item itemvalue="Application.ErrConvert" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604660840397</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fin chap4 chap5">
+      <created>1604678827807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604678827807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +202,9 @@
     <MESSAGE value="exo livre chap2/4" />
     <MESSAGE value="chap 3 -5" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="fin chap4 chap5" />
+    <MESSAGE value="fin chap4 chap5 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin chap4 chap5 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="243" y="0" key="#Project_Structure" timestamp="1604496708209">
@@ -207,47 +216,47 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604570796347" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1604660755392">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605016317211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1604660755392">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605016317211" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605016317211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1604660755392">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605016317211" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605016317211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1604660755392">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605016317211" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605016317211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604660755392">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605016317211" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1605014534951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604660755392">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605014534951" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1605014534951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604660755392">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605014534951" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1605014534951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604660755392">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605014534951" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1605014534951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660755392" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1605014534951" />
     <state x="243" y="0" key="SettingsEditor" timestamp="1604505062933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604505062933" />
     <state x="243" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604489067977" />
-    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604660851057">
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2" timestamp="1604678840234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604660851057" />
+    <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.2560.1040@0.0.1536.824" timestamp="1604678840234" />
     <state x="367" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604488821791" />
     <state x="547" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604488750025">
       <screen x="0" y="0" width="1536" height="824" />
